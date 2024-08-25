@@ -1,3 +1,3 @@
 # GenSize
 
-##Contributers: @abhishekbemiwal57
+##Contributers: @abhishekbeniwal57
